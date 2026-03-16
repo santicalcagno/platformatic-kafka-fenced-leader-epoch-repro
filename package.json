@@ -1,0 +1,9 @@
+{
+  "name": "kafka-repro",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@platformatic/kafka": "^1.30.0"
+  }
+}
