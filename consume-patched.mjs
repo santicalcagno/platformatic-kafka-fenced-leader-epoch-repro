@@ -5,7 +5,6 @@ import { fileURLToPath } from "node:url";
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const streamPath = join(
   __dirname,
-  "..",
   "node_modules",
   "@platformatic",
   "kafka",
